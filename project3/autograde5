@@ -1,0 +1,17 @@
+
+This is your grade report from the Autograder ran on 22-Mar-2018 19:06:53. 
+For this project we ran 2 evaluation(s) on your committed code.
+
+	On the kernel_evaluation you scored 55 points with our tests.
+	Unfortunately, you failed 2 test(s) on this evaluation:
+		Failed Test 8: number of rows of A not the same as the number of rows of b 
+		Failed Test 10: H is incorrect 
+	Your implementation for kernel was competitive! You scored 18 points based on the efficiency or quality of your code.
+
+	On the l2dist_evaluation you scored 4 points with our tests.
+	Unfortunately, you failed 1 test(s) on this evaluation:
+		Test 11 failed: Distances must be all real numbers (not imaginary). Make sure all values are non-zero before you take the squrae root.
+	Your implementation for l2dist was competitive! You scored 4 points based on the efficiency or quality of your code.
+
+
+For this project, you scored a total of 81 points.
